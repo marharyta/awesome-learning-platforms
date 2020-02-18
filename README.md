@@ -135,6 +135,10 @@ Mostly logical tasks
 Competitions
 Tutorials
 
+
+## https://hackr.io/
+
+
 ## exercism.io
 
 URL: https://exercism.io/
